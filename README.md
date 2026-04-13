@@ -1,10 +1,15 @@
 🏰 THE BEDROCK PROTOCOL: CYBERCURITY LOGIC
+
 (Hệ Điều Hành Bảo Mật Bất Đối Xứng)
+
 👤 GIỚI THIỆU (About Me)
+
 VI: Chào mọi người, tôi là An (sinh năm 2012). Tôi dành thời gian để nghiên cứu về hệ thống và tối ưu hóa logic. Bản thiết kế này là thành quả của việc tôi kết hợp giữa tư duy lập trình và các quy luật tự nhiên, nhằm tạo ra một môi trường Internet an toàn hơn.
+
 EN: Hi everyone, I am An (born in 2012). I dedicate my time to studying systems and logic optimization. This blueprint is the result of combining programming logic with natural laws to create a safer Internet environment.
 
 ⚠️ TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM (Disclaimer)
+
 Theoretical Research: Đây là nghiên cứu lý thuyết, một khung tư duy (framework) về bảo mật của cá nhân tôi.
 
 Non-Commercial: Dự án không vì mục đích thương mại.
@@ -14,6 +19,7 @@ AI Standardized: Nội dung được chuẩn hóa bởi AI dựa trên ý tưở
 "Thay vì xây tường thật cao để chặn người ta, chọn cách biến chính lực đẩy của kẻ tấn công thành năng lượng để bảo vệ hệ thống."
 
 ⚙️ CÁC TRỤ CỘT LOGIC (Core Pillars)
+
 1. Hạ tầng phân tán & Vòng lặp phản vệ (Distributed Infra & Feedback Loops)
 VI: Tôi thiết kế hệ thống không tốn tài nguyên duy trì máy chủ lớn. Nó sử dụng hạ tầng có sẵn một cách thông minh. Khi bị tấn công, hệ thống dẫn dụ hacker vào một môi trường ảo (Shadow Instance). Tại đây, hacker càng bơm dữ liệu bẩn, hệ thống càng ép máy tính của họ giải toán nặng. Họ sẽ tự đốt cháy phần cứng của mình trước khi chạm được vào dữ liệu thật.
 
@@ -30,6 +36,7 @@ VI: Các tác nhân trong hệ thống của tôi giao tiếp bằng ngôn ngữ
 EN: Agents in my system communicate via self-encoding protocols that shift based on cosmic noise. Even with lag or jamming, I use a "20-minute time window" for data cross-referencing. Hackers attacking in real-time will always be out of sync with the logical keys.
 
 🧠 GIẢI ĐÁP THẮC MẮC (Q&A)
+
 Q1: Tại sao gọi là Cybercurity mà không phải Cybersecurity?
 Tôi gọi là Cybercurity vì "Security" thường là phòng thủ bị động, còn "Curity" (viết tắt của Cure) mang ý nghĩa là một phương thuốc chữa trị tận gốc vấn đề bảo mật bằng cách thay đổi hoàn toàn luật chơi.
 
