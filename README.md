@@ -62,7 +62,9 @@ Tôi muốn tạo ra một môi trường Internet mà ở đó những kẻ có
 
 Created by: Lê Nguyễn Trọng An
 Status: Logic Closure Reached
+
 Nếu có thắc mắc hay yêu cầu gì, vui lòng liên hệ với địa chỉ sau:
+
 For any inquiries or questions, please feel free to reach out to me at:
 
 Email: dutubelnta@gmail.com
